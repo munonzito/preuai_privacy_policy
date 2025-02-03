@@ -34,8 +34,6 @@ Tienes derecho a:
 - Solicitar acceder, corregir o eliminar tus datos personales.  
 - Cancelar tu suscripción y cuenta en cualquier momento.  
 
-Para ejercer estos derechos, escríbenos a [correo@preuai.com].  
-
 ---
 
 ## 5. Seguridad de los Datos  
